@@ -551,6 +551,4 @@
 
 
 ![Remedial](about.jpg)
-
->[!keterangan]-
->Pak minta maaf barupi selesai remedialku 
+ 
