@@ -75,7 +75,7 @@ Dalam contoh ini, INT, FLOAT, DOUBLE, DECIMAL dan BIT adalah tipe data angka yan
    - Tipe data ini digunakan untuk menyimpan string panjang. Panjang maksimum data yang bisa disimpan adalah 65,535 karakter.
    - Contoh: `TEXT`
 
-![[contoh teks.jpg]]
+![text](contoh_teks.jpg)
 
 Dalam contoh ini, CHAR, VARCHAR, dan TEXT adalah tipe data teks yang digunakan untuk kolom-kolom tertentu dalam tabel.
 
@@ -91,7 +91,7 @@ Dalam contoh ini, CHAR, VARCHAR, dan TEXT adalah tipe data teks yang digunakan u
 
 5. **YEAR**: Menyimpan tahun dalam format `YYYY`. Contoh: `2023`.
 
-![[contoh tanggal.jpg]]
+![tanggal](contoh_tanggal.jpg)
 
 Dalam contoh ini, DATE, TIME, DATETIME, TIMESTAMP, dan YEAR adalah tipe data yang digunakan untuk kolom-kolom tertentu dalam tabel untuk menyimpan informasi tanggal dan waktu.
 
